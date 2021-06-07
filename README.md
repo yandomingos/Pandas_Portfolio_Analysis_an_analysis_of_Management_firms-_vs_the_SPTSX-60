@@ -1,6 +1,6 @@
 # Pandas Project - Portfolio Analysis: a deep analysis of Management firms vs the S&P TSX 60.
 
-![alt text](portfolio-analysis.jpg)
+![portfolio-analysis](portfolio-analysis.jpg)
 
 This project 
 
